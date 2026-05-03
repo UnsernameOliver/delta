@@ -1,8 +1,10 @@
 nachfolge.live
 
 Links
+
 Pitch Deck
-👉 [Insert Pitch Deck Link]
+👉 View Pitch Deck
 
 Platform
 👉 https://nachfolge.live
+
