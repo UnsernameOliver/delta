@@ -3,7 +3,7 @@
 ## Links
 
 * **Pitch Deck**
-  👉 [View Pitch Deck](https://raw.githubusercontent.com/UnsernameOliver/delta/main/Deck_nachfolge.live.pdf)
+  👉 [View Pitch Deck](https://github.com/UnsernameOliver/delta/blob/main/Deck_nachfolge.live.pdf)
 
 * **Platform**
   👉 [https://nachfolge.live](https://nachfolge.live)
