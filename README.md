@@ -9,4 +9,4 @@
   👉 [https://nachfolge.live](https://nachfolge.live)
 
 * **YouTube**
-  👉 [Video](https://youtu.be/6bMMdjtmGTA)
+  👉 [Video](https://youtu.be/GnpuDo4ofPs)
