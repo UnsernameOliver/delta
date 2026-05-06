@@ -8,5 +8,8 @@
 * **Platform**
   👉 [https://nachfolge.live](https://nachfolge.live)
 
-* **YouTube**
+* **YouTube (GER)**
   👉 [Video](https://youtu.be/GnpuDo4ofPs)
+
+* **YouTube (ENG)**
+  👉 [Video](https://youtu.be/eHPSkxOzMxc)
