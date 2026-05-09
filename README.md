@@ -11,5 +11,4 @@
 * **YouTube (GER)**
   👉 [Video](https://youtu.be/GnpuDo4ofPs)
 
-* **YouTube (ENG)**
-  👉 [Video](https://youtu.be/eHPSkxOzMxc)
+
